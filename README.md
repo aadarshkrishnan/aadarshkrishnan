@@ -7,4 +7,4 @@ I'm a computer science student who is passionate about writing code, learning, a
 - 🔭 I’m currently a sophomore in Computer Science at UIUC
 - 📚 I’m currently working on miniprojects in Python
 - 🌱 I’m looking for a software engineering internship
-- 📫 You can reach me on [Linkedin](www.linkedin.com/in/aadarshkrishnan)
+- 📫 You can reach me on [[Linkedin](www.linkedin.com/in/aadarshkrishnan)](https://www.linkedin.com/in/aadarshkrishnan/)
